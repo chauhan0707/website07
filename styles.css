@@ -1,0 +1,11 @@
+body
+{
+    background: black;
+}
+@media only screen and (min-width: 500px) 
+{
+body 
+{
+background: #ff0000; 
+}
+}
